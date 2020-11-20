@@ -149,7 +149,7 @@
                             "description": "description",
                             "protocol": "Tcp",
                             "sourcePortRange": "*",
-                            "destinationPortRanges": ["22","8443","4001","7001","10250","10251"],
+                            "destinationPortRanges": ["22","80","443","8443","4001","7001","10250","10251"],
                             "sourceAddressPrefix": "*",
                             "destinationAddressPrefix": "*",
                             "access": "Allow",
