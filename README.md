@@ -1,2 +1,3 @@
 # redshift-okd
 # okdtest
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSpringStorm5%2Fokdtest%2Fmain%2FmainTemplate.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FSpringStorm5%okdtest%2Fmain%2FcreateUiDefinition.json)
